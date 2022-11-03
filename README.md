@@ -1,6 +1,5 @@
 - Hi, I’m Hoang Tien Bo
 - I’m interested in ReactJS,React-Native
-- I’m currently learning FPT Polytechnic HN
 - I want to become a Mobile develop
 - Reach me by email:Hoangtienbo001@gmail.com or phone:0888414858
 
